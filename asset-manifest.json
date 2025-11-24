@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/react-portfolio-template/static/css/main.925c845d.css",
-    "main.js": "/react-portfolio-template/static/js/main.aefc1b0a.js",
-    "static/js/453.b05d8aa5.chunk.js": "/react-portfolio-template/static/js/453.b05d8aa5.chunk.js",
-    "static/media/bg-light.png": "/react-portfolio-template/static/media/bg-light.bac0efb485244a522981.png",
-    "static/media/bg-dark.png": "/react-portfolio-template/static/media/bg-dark.f420c6b8458af72de935.png",
-    "static/media/mock02.png": "/react-portfolio-template/static/media/mock02.bced48ae9cdda3acf1a3.png",
-    "static/media/mock03.png": "/react-portfolio-template/static/media/mock03.a4600719e0b5d2a3155b.png",
-    "index.html": "/react-portfolio-template/index.html",
-    "main.925c845d.css.map": "/react-portfolio-template/static/css/main.925c845d.css.map",
-    "main.aefc1b0a.js.map": "/react-portfolio-template/static/js/main.aefc1b0a.js.map",
-    "453.b05d8aa5.chunk.js.map": "/react-portfolio-template/static/js/453.b05d8aa5.chunk.js.map"
+    "main.css": "/portfolio/static/css/main.000596af.css",
+    "main.js": "/portfolio/static/js/main.c5498d33.js",
+    "static/js/453.b05d8aa5.chunk.js": "/portfolio/static/js/453.b05d8aa5.chunk.js",
+    "static/media/bg-light.png": "/portfolio/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-dark.png": "/portfolio/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/mock02.png": "/portfolio/static/media/mock02.bced48ae9cdda3acf1a3.png",
+    "static/media/mock03.png": "/portfolio/static/media/mock03.a4600719e0b5d2a3155b.png",
+    "index.html": "/portfolio/index.html",
+    "main.000596af.css.map": "/portfolio/static/css/main.000596af.css.map",
+    "main.c5498d33.js.map": "/portfolio/static/js/main.c5498d33.js.map",
+    "453.b05d8aa5.chunk.js.map": "/portfolio/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.925c845d.css",
-    "static/js/main.aefc1b0a.js"
+    "static/css/main.000596af.css",
+    "static/js/main.c5498d33.js"
   ]
 }

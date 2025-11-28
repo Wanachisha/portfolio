@@ -18,12 +18,12 @@ function Project() {
         <div className="projects-grid">
             
             <div className="project">
-                <a href="" target="_blank" rel="noreferrer"><img src={mock02} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="" target="_blank" rel="noreferrer"><h2>Burnou Risk Model</h2></a>
+                <a href="" target="_blank" rel="noreferrer"><img src={mock04} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="" target="_blank" rel="noreferrer"><h2>Burnout Risk Model</h2></a>
                 <p>Created a prediction model for burnout risk. The risk profile anaylses all parts of employees and using metrics to perform early detection and alert management with reccomendations.</p>
             </div>
             <div className="project">
-                <a href="https://github.com/Wanachisha" target="_blank" rel="noreferrer"><img src={mock03} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://github.com/Wanachisha" target="_blank" rel="noreferrer"><img src={mock05} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://github.com/Wanachisha" target="_blank" rel="noreferrer"><h2>Loan Default Prediction Model</h2></a>
                 <p>Developed a loan default prediction model. The model analyses consumer behave and uses the data to predict if the loan will be defaulted</p>
             </div>

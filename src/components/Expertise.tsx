@@ -6,26 +6,26 @@ import Chip from '@mui/material/Chip';
 import '../assets/styles/Expertise.scss';
 
 const labelsFirst = [
-    "React",
-    "JavaScript",
-    "HTML5",
-    "CSS3",
-    "SQL",
-    "PostgreSQL",
-    "Python"
+    "Pandas",
+    "NumPy",
+    "Jupyter",
+    "Streamlit",
+    "Tensorflow"
 
 ];
 
 const labelsSecond = [
-    "Git",
-    "GitHub Actions",
-    "Linux",
-    "Pandas"
+    "Google Analytics",
+    "Facebook Business",
+    "Linkedin ads",
+    "SEO Tools"
 ];
 
 const labelsThird = [
-    "OpenAI",
-    "Streamlit"
+    "MySQL",
+    "PostgreSQL",
+    "Database Design",
+    "Data Modelling"
 ];
 
 function Expertise() {
@@ -48,10 +48,10 @@ function Expertise() {
 
                 <div className="skill">
                     <FontAwesomeIcon icon={faDocker} size="3x"/>
-                    <h3>DevOps & Automation</h3>
-                    <p>Once the application is built, I help clients set up DevOps testing, CI/CD pipelines, and deployment automation to support the successful Go-Live.</p>
+                    <h3>Digital Markting</h3>
+                    <p>Developed data-driven marketing strategies that drive brand awareness and customer engagement. By leveraging analytics and targeted campaigns.</p>
                     <div className="flex-chips">
-                        <span className="chip-title">Tech stack:</span>
+                        <span className="chip-title">Stack:</span>
                         {labelsSecond.map((label, index) => (
                             <Chip key={index} className='chip' label={label} />
                         ))}
@@ -60,8 +60,8 @@ function Expertise() {
 
                 <div className="skill">
                     <FontAwesomeIcon icon={faPython} size="3x"/>
-                    <h3>GenAI & LLM</h3>
-                    <p>Stay relevant in the market by leveraging the latest AI models in your projects. I have professional experience building enterprise grade GenAI-enabled solutions to empower intelligent decision making.</p>
+                    <h3>Database Management</h3>
+                    <p>design and optimize database systems that ensure data integrity and performance. Through efficient query optimization and proper indexing strategies.</p>
                     <div className="flex-chips">
                         <span className="chip-title">Tech stack:</span>
                         {labelsThird.map((label, index) => (

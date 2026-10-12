@@ -37,7 +37,7 @@ function Expertise() {
                 <div className="skill">
                     <FontAwesomeIcon icon={faReact} size="3x"/>
                     <h3>Data Science</h3>
-                    <p>I have built a prediction model for burnout risk. The risk profile anaylses all parts of employees and using metrics to perform early detection and alert management with reccomendations.</p>
+                    <p>I built a machine learning classification model to predict loan default. The system evaluates a borrower's financial parameters and leverages early-warning indicators, primarily loan delinquency, to assess risk and detect potential defaults.</p>
                     <div className="flex-chips">
                         <span className="chip-title">Tech stack:</span>
                         {labelsFirst.map((label, index) => (

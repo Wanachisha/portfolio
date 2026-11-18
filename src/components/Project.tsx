@@ -18,9 +18,9 @@ function Project() {
         <div className="projects-grid">
             
             <div className="project">
-                <a href="" target="_blank" rel="noreferrer"><img src={mock05} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="" target="_blank" rel="noreferrer"><h2>Burnout Risk Model</h2></a>
-                <p>Created a prediction model for burnout risk. The risk profile anaylses all parts of employees and using metrics to perform early detection and alert management with reccomendations.</p>
+                <a href="https://github.com/NMKaley05/Novella" target="_blank" rel="noreferrer"><img src={mock05} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://github.com/NMKaley05/Novella" target="_blank" rel="noreferrer"><h2>Novella</h2></a>
+                <p>Built an environmental intelligence and anomaly detection system for 12 zones across Lusaka. The platform combines nighttime satellite radiance baselines, Z-score statistical modeling, and weather metrics through a FastAPI and Streamlit stack to flag infrastructure disruptions and track recovery trends.</p>
             </div>
             <div className="project">
                 <a href="https://github.com/Wanachisha/Loan-Default-Predictor" target="_blank" rel="noreferrer"><img src={mock04} className="zoom" alt="thumbnail" width="100%"/></a>
